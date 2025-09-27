@@ -3,7 +3,7 @@
  // printf("???????");
  // scanf("")  
 int main(){
-    printf("AAAAA");
+    printf("AA\tAA\t\tA");
     printf("%s BBBBB %d", "CCC", 100); //integer(int)
     printf("XYZ %f ^_^ %lf " , 150.45 ,158.15486 ); //float,doble
     printf("กดืไดาส");
